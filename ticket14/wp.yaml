@@ -1,4 +1,4 @@
---- #t will ask to put input for e-link
+--- #it will ask to put input for e-link
   - name: unziping wordpress 
     hosts: "{{ host_IP }}"
     become: yes
